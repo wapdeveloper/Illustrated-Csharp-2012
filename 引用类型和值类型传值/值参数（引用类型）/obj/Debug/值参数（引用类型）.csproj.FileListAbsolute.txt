@@ -1,0 +1,4 @@
+c:\users\augurit\documents\visual studio 2012\Projects\引用类型和值类型传值\值参数（引用类型）\bin\Debug\值参数（引用类型）.exe
+c:\users\augurit\documents\visual studio 2012\Projects\引用类型和值类型传值\值参数（引用类型）\bin\Debug\值参数（引用类型）.pdb
+c:\users\augurit\documents\visual studio 2012\Projects\引用类型和值类型传值\值参数（引用类型）\obj\Debug\值参数（引用类型）.exe
+c:\users\augurit\documents\visual studio 2012\Projects\引用类型和值类型传值\值参数（引用类型）\obj\Debug\值参数（引用类型）.pdb

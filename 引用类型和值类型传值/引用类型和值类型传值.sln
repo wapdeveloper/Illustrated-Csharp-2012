@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "值参数", "引用类型和值类型传值\值参数.csproj", "{3F933463-91B2-4049-9630-72481B26580A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "引用参数", "引用参数\引用参数.csproj", "{0151DA33-1FAA-4105-9646-220593FD57BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "引用参数（引用类型）", "引用参数（引用类型）\引用参数（引用类型）.csproj", "{41AFA40C-C4F9-4797-8328-4FFE2556D844}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "值参数（引用类型）", "值参数（引用类型）\值参数（引用类型）.csproj", "{C25CB133-66F7-4B4C-84E5-C13A7A563104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F933463-91B2-4049-9630-72481B26580A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F933463-91B2-4049-9630-72481B26580A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F933463-91B2-4049-9630-72481B26580A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F933463-91B2-4049-9630-72481B26580A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0151DA33-1FAA-4105-9646-220593FD57BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0151DA33-1FAA-4105-9646-220593FD57BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0151DA33-1FAA-4105-9646-220593FD57BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0151DA33-1FAA-4105-9646-220593FD57BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41AFA40C-C4F9-4797-8328-4FFE2556D844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41AFA40C-C4F9-4797-8328-4FFE2556D844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41AFA40C-C4F9-4797-8328-4FFE2556D844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41AFA40C-C4F9-4797-8328-4FFE2556D844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C25CB133-66F7-4B4C-84E5-C13A7A563104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25CB133-66F7-4B4C-84E5-C13A7A563104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25CB133-66F7-4B4C-84E5-C13A7A563104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C25CB133-66F7-4B4C-84E5-C13A7A563104}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

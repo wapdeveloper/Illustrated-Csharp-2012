@@ -1,0 +1,5 @@
+c:\users\augurit\documents\visual studio 2012\Projects\引用类型和值类型传值\引用类型和值类型传值\bin\Debug\引用类型和值类型传值.exe
+c:\users\augurit\documents\visual studio 2012\Projects\引用类型和值类型传值\引用类型和值类型传值\bin\Debug\引用类型和值类型传值.pdb
+c:\users\augurit\documents\visual studio 2012\Projects\引用类型和值类型传值\引用类型和值类型传值\obj\Debug\值参数.csprojResolveAssemblyReference.cache
+c:\users\augurit\documents\visual studio 2012\Projects\引用类型和值类型传值\引用类型和值类型传值\obj\Debug\引用类型和值类型传值.exe
+c:\users\augurit\documents\visual studio 2012\Projects\引用类型和值类型传值\引用类型和值类型传值\obj\Debug\引用类型和值类型传值.pdb
